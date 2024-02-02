@@ -1,1 +1,1 @@
-<img src="[path/to/your/image.gi](https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif)https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif" alt="Animated GIF">
+<img src="https://i.pinimg.com/originals/a3/ec/4f/a3ec4f11a1e26227fe92406d57d75328.gif" alt="Animated GIF">
